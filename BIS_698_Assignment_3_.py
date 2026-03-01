@@ -1,4 +1,4 @@
-# BIS 698 - Assignment 4: Customer Registration Screen (Figma)
+# BIS 698 - Assignment 3: Customer Registration Screen (Figma)
 # Name: Maheswara Reddy Varra
 # Global ID: varra1m
 
@@ -206,3 +206,4 @@ app.bind("<Return>", lambda e: register_customer())
 first_name.focus()
 
 app.mainloop()
+
